@@ -56,7 +56,12 @@
 
 ### 📫 Contact Me
 
-- <a href='https://github.com/shivamkapasia0' target="_blank"></a> Telegram: `@Benyamin_Chegeneh`
-- 📧 Email: Chegeneh.Benyamin@Gmail.com  
+  <a href="https://t.me/Benyamin_Chegeneh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=white&logoColor=2CA5E0&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+  <br/>
+  <a href="mailto:chegeneh.benyamin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=D14836&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
 
 ---
