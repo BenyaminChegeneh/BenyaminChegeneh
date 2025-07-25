@@ -19,6 +19,7 @@
 **Languages & Frameworks**  
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="45"/> <img width="24" />
+<img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" height="45"/> <img width="24" />
 
 **Tools**  
 
