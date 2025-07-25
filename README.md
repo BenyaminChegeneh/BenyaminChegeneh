@@ -17,14 +17,14 @@
 ### 🛠️ Skills & Tools
 
 **Languages & Frameworks**  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![XAML](https://img.shields.io/badge/-XAML-0078D7?style=flat&logo=windows)
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="45"/> <img width="24" />
 
 **Tools**  
-![Visual Studio](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![FL Studio](https://img.shields.io/badge/-FL%20Studio-orange?style=flat&logo=fl-studio)
-![Windows](https://img.shields.io/badge/-Windows-0078D7?style=flat&logo=windows&logoColor=white)
-![CMD](https://img.shields.io/badge/-CMD-000000?style=flat)
+
+<img src="https://img.icons8.com/color/48/fl-studio.png" height="45"/> <img width="24" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="45"/> <img width="24" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height="45"/> <img width="24" />
 
 ---
 
